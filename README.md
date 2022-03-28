@@ -1,2 +1,1 @@
-# Card
-Card flutter
+A simple command-line application.
